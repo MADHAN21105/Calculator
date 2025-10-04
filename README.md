@@ -2,7 +2,7 @@
 
 [![Java](https://img.shields.io/badge/Language-Java-orange)](https://www.java.com/)  
 
-** Calculator v2** is an advanced console-based calculator built in Java.  
+**Calculator** is an advanced console-based calculator built in Java.  
 It includes **math operations, statistics, conversions, games, and history tracking** — all in one interactive program.  
 
 ---
