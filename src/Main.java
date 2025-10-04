@@ -212,7 +212,7 @@ public class Main {
                 case 2: gamesMenu(); break;
                 case 3: conversionsHealthMenu(); break;
                 case 4: viewHistory(); break;
-                case 0: running=false; System.out.println("🙏 Thanks for using Ultimate SmartCalc!"); break;
+                case 0: running=false; System.out.println("🙏 Thanks for using The Calculator!"); break;
                 default: System.out.println("⚠️ Invalid choice!");
             }
         }
